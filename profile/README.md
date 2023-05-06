@@ -1,4 +1,4 @@
-# IFSC Calendar and Streams
+# IFSC Climbing Calendar and Streams
 
 This automatically generates an up-to-date calendar you can subscribe to, to never miss an IFSC climbing event ever again.
 
