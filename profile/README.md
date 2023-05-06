@@ -1,4 +1,4 @@
-# IFSC Climbing Calendar and Streams
+# IFSC Climbing Calendar and Streams for 2023
 
 This automatically generates an up-to-date calendar you can subscribe to, to never miss an IFSC climbing event ever again.
 
