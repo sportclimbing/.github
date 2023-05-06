@@ -13,7 +13,7 @@ Take a look at the **[setup guides](https://github.com/sportclimbing/ifsc-calend
 #### ⚒️ Code
 Here are all the repositories needed to build [ifsc.stream](https://ifsc.stream/)
 
-- [IFSC Calendar Generator](https://github.com/sportclimbing/ifsc-calendar) (Uses some APIs + scraping to build and up-to-date calendar)
-- [IFSC Calendar Web](https://github.com/sportclimbing/web) (Calendar Frontend) 
+- [sportclimbing/ifsc-calendar](https://github.com/sportclimbing/ifsc-calendar) - IFSC Calendar Generator
+- [sportclimbing/web](https://github.com/sportclimbing/web) - Calendar Frontend
 
 (In no way affiliated with, or endorsed by [IFSC](https://www.ifsc-climbing.org/))
