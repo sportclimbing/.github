@@ -1,5 +1,7 @@
 # IFSC Climbing Calendar and Streams for 2023
 ![downloads](https://img.shields.io/github/downloads/sportclimbing/ifsc-calendar/total?color=green&label=Downloads)
+![update ralendar](https://github.com/sportclimbing/ifsc-calendar/actions/workflows/update-calendar.yml/badge.svg)
+![update ralendar](https://github.com/sportclimbing/web/actions/workflows/static-deploy.yml/badge.svg)
 
 This automatically generates an up-to-date `iCal` calendar you can subscribe to, to never miss an IFSC climbing event ever again.
 
