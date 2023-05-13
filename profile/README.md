@@ -7,14 +7,14 @@ This automatically generates an up-to-date `iCal` calendar you can subscribe to,
 
 <hr />
 
-#### 👀 How
+#### 🤓 How
 Copy and paste this calendar URL (**https://calendar.ifsc.stream**) into your calendar subscriptions, and it will
 automatically sync with your device. This works on iPhone, Google Calendar, Proton Calendar, etc... This should keep
 you updated on future seasons as well.
 
 Take a look at the **[setup guides](https://github.com/sportclimbing/ifsc-calendar/wiki)** for help.
 
-#### 🕸 Web Version
+#### 👩‍💻 Web Version
 A web version of the calendar is also available. It can be found here:
 ### &nbsp; &nbsp; https://ifsc.stream
 
