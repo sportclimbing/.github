@@ -29,6 +29,6 @@ Here are all the repositories needed to build [https://ifsc.stream](https://ifsc
 
 ![downloads](https://img.shields.io/github/downloads/sportclimbing/ifsc-calendar/total?color=green&label=Downloads)
 
-![calendar](calendar.png)
+![calendar](/profile/calendar.png)
 
 (In no way affiliated with, or endorsed by [IFSC](https://www.ifsc-climbing.org/))
