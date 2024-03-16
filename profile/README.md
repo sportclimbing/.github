@@ -15,6 +15,8 @@ Take a look at the **[setup guides 📖](https://github.com/sportclimbing/ifsc-c
 A web version of the calendar is also available and can be found here:
 ### &nbsp; &nbsp; https://ifsc.stream
 
+![calendar](/profile/calendar.png)
+
 <hr />
 
 #### ⚒️ Code
@@ -28,7 +30,5 @@ Here are all the repositories needed to build [https://ifsc.stream](https://ifsc
 | [sportclimbing/calendar.ifsc.stream](https://github.com/sportclimbing/calendar.ifsc.stream)  | Calendar Backend                             | ![Deploy to prod](https://github.com/sportclimbing/calendar.ifsc.stream/actions/workflows/deploy-prod.yml/badge.svg)      |
 
 ![downloads](https://img.shields.io/github/downloads/sportclimbing/ifsc-calendar/total?color=green&label=Downloads)
-
-![calendar](/profile/calendar.png)
 
 (In no way affiliated with, or endorsed by [IFSC](https://www.ifsc-climbing.org/))
