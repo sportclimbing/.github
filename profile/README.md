@@ -1,7 +1,9 @@
 > [!WARNING]
-> Automatic updates are halted until further notice
+> **Automatic updates are halted until further notice**
 > 
 > https://github.com/sportclimbing/ifsc-calendar/issues/7
+
+<hr />
 
 <div align="center">
   <h1>IFSC Climbing Calendar and Live-Streams for 2024</h1>
