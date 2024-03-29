@@ -14,7 +14,7 @@
 - Updates automatically every hour
 - Fetches schedules directly from IFSC's website (using some APIs and fancy scraping)
 - Converts times to your local timezone
-- Alerts an hour befor events start
+- Alerts an hour before events start
 - Fetches YouTube stream URLs
 - Fetches start list for events
 - Works on any calendar app (Google Calendar, Outlook, etc...)
