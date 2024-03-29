@@ -1,10 +1,3 @@
-> [!WARNING]
-> **Automatic updates are halted until further notice**
-> 
-> https://github.com/sportclimbing/ifsc-calendar/issues/7
-
-<hr />
-
 <div align="center">
   <h1>IFSC Climbing Calendar and Live-Streams for 2024</h1>
   <p>This generates an always up-to-date <code>iCal</code> calendar you can subscribe to using your favorite calendar app, such as <i>Google Calendar</i> or <i>Outlook</i>, to never miss an IFSC climbing event ever again.</p>
