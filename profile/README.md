@@ -47,5 +47,5 @@ Here are all the repositories needed to build [https://ifsc.stream](https://ifsc
 | [sportclimbing/calendar.ifsc.stream](https://github.com/sportclimbing/calendar.ifsc.stream)  | Calendar Backend                             | ![Deploy to prod](https://github.com/sportclimbing/calendar.ifsc.stream/actions/workflows/deploy-prod.yml/badge.svg)      |
 
 <div align="center">
-  <i>(In no way affiliated with, or endorsed by the <a href="https://www.ifsc-climbing.org/">IFSC</a></i>
+  <i>(In no way affiliated with, or endorsed by <a href="https://www.worldclimbing.com/">WoRLd CliMbiNg</a></i>
 </div>
