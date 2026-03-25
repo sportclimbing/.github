@@ -39,12 +39,13 @@ Take a look at the **[setup guides 📖](https://github.com/sportclimbing/ifsc-c
 ### ⚒️ Code
 Here are all the repositories needed to build [https://ifsc.stream](https://ifsc.stream/)
 
-| Repository                                                                                   | Description                                  | Status                                                                                                                    |
-|----------------------------------------------------------------------------------------------|----------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| [sportclimbing/ifsc-calendar](https://github.com/sportclimbing/ifsc-calendar)                | IFSC Calendar Generator                      | ![update ralendar](https://github.com/sportclimbing/ifsc-calendar/actions/workflows/update-calendar.yml/badge.svg)        |
-| [sportclimbing/web](https://github.com/sportclimbing/web)                                    | Calendar Frontend                            | ![web deploy](https://github.com/sportclimbing/web/actions/workflows/static-deploy.yml/badge.svg)                         |
-| [sportclimbing/ifsc-videos](https://github.com/sportclimbing/ifsc-videos)                    | An always up-to-date YouTube video DB        | ![Update video database](https://github.com/sportclimbing/ifsc-videos/actions/workflows/update-database.yml/badge.svg)    |
-| [sportclimbing/calendar.ifsc.stream](https://github.com/sportclimbing/calendar.ifsc.stream)  | Calendar Backend                             | ![Deploy to prod](https://github.com/sportclimbing/calendar.ifsc.stream/actions/workflows/deploy-prod.yml/badge.svg)      |
+| Repository                                                                                   | Description                                  | Status                                                                                                                               |
+|----------------------------------------------------------------------------------------------|----------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
+| [sportclimbing/ifsc-calendar](https://github.com/sportclimbing/ifsc-calendar)                | IFSC Calendar Generator                      | ![update ralendar](https://github.com/sportclimbing/ifsc-calendar/actions/workflows/update-calendar.yml/badge.svg)                   |
+| [sportclimbing/web](https://github.com/sportclimbing/web)                                    | Calendar Frontend                            | ![web deploy](https://github.com/sportclimbing/web/actions/workflows/static-deploy.yml/badge.svg)                                    |
+| [sportclimbing/ifsc-videos](https://github.com/sportclimbing/ifsc-videos)                    | An always up-to-date YouTube video DB        | ![Update video database](https://github.com/sportclimbing/ifsc-videos/actions/workflows/update-database.yml/badge.svg)               |
+| [sportclimbing/event-details](https://github.com/sportclimbing/event-details)                | Generate schedule Release                    | ![Generate Schedule](https://github.com/sportclimbing/event-schedule/actions/workflows/generate-schedule-release.yml/badge.svg)      |
+| [sportclimbing/calendar.ifsc.stream](https://github.com/sportclimbing/calendar.ifsc.stream)  | Calendar Backend                             | ![Deploy to prod](https://github.com/sportclimbing/calendar.ifsc.stream/actions/workflows/deploy-prod.yml/badge.svg)                 |
 
 <div align="center">
   <i>(In no way affiliated with, or endorsed by <a href="https://www.worldclimbing.com/">WoRLd CliMbiNg</a></i>
